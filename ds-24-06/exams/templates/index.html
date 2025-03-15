@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html long="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" />
+  </head>
+  <body>
+    <h1>Список задач</h1>
+    
+    <h2>Добавить задачу</h2>
+    <form action="/tasks" method="post">
+        <input type="text" name="task_title" placeholder="Введите название задачи" required>
+        <button type="submit">Добавить</button>
+    </form>
+
+    <h2>Задачи</h2>
+    <ul id="taskList">
+        {% for task in tasks %}
+        <li>
+            {{ task.title }}
+            <form action="/tasks/delete/{{ loop.index0 }}" method="post" style="display: inline;">
+                <button type="submit">Удалить</button>
+            </form>
+        </li>
+        {% endfor %}
+    </ul>
+    
+  </body>
+</html>
