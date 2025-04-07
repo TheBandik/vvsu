@@ -1,6 +1,6 @@
 # БИК-24 - Программирование на Python
 
-[Результаты](results.md)
+[Результаты](https://thebandik.onlyoffice.com/s/XttNR48-hB7kyK2)
 
 [Тестовое задание с переменными](test.md)
 

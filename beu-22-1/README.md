@@ -1,6 +1,6 @@
 # БЭУ-22 - Программирование на Python
 
-[Результаты](results.md)
+[Результаты](https://thebandik.onlyoffice.com/s/XttNR48-hB7kyK2)
 
 [Лабораторная работа №1](lab1.md)
 

@@ -1,6 +1,6 @@
 # ДП-24-06 - Алгоритмы и структуры данных на Python
 
-[Результаты](results.md)
+[Результаты](https://thebandik.onlyoffice.com/s/XttNR48-hB7kyK2)
 
 ---
 
