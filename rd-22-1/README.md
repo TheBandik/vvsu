@@ -21,3 +21,5 @@
 [Проект часть №1](project/part1.md)
 
 [Проект часть №2](project/part2.md)
+
+[Проект часть №3](project/part3.md)
