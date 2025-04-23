@@ -23,3 +23,5 @@
 [Проект часть №2](project/part2.md)
 
 [Проект часть №3](project/part3.md)
+
+[Проект часть №4](project/part4.md)
