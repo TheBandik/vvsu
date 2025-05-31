@@ -23,3 +23,5 @@
 ---
 
 [Диаграммы классов](lecs/uml_class/uml_class.md)
+
+[Лабораторная работа №7](labs/lab7.md)
