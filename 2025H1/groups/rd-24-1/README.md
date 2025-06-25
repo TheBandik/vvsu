@@ -29,3 +29,9 @@
 [КонсультатПлюс №3](con3/con3.md)
 
 [КонсультатПлюс №4](con4/con4.md)
+
+---
+
+[Экзамен Excel](exam/exam_excel/exam_excel.md)
+
+[Экзамен Word](exam/exam_word/exam_word.md)
