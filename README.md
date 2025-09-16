@@ -10,7 +10,7 @@
 
 [СО-ОП-23/С-ОП-24](2025H2/subjects/engineering-graphics-op)
 
-[СО-РД-23-1](2025H2/subjects/engineering-graphics-rd)
+[СО-РД-23-1](2025H2/subjects/engineering-graphics-rd/README.md)
 
 ## Группы ВО
 
