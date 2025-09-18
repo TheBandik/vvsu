@@ -16,6 +16,8 @@
 
 - [Таблица успеваемости и посещаемости](https://thebandik.onlyoffice.com/s/Vc_Tr2Gvrr2ZLYw)
 
+- [Система оценки успеваемости студентов](https://github.com/TheBandik/vvsu/blob/0b7c93ccb5eb1221e8d3f9953cc967559c21336b/2025H2/ratingSystem.md)
+
 - [Примеры, документация](https://thebandik.onlyoffice.com/s/dwnLnxn7jK_H_gL)
 
 - [Проект преподавателя]()
