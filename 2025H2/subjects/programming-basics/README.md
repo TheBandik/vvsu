@@ -10,6 +10,10 @@
 
 - [Скачать Python](https://www.python.org/downloads/)
 
+- [Скачать Visual Studio Code](https://code.visualstudio.com/download)
+
+- [Скачать PyCharm](https://www.jetbrains.com/ru-ru/pycharm/download)
+
 ## Содержание
 
 ### Типы данных и переменные
