@@ -20,7 +20,7 @@
 
 - [Примеры, документация](https://thebandik.onlyoffice.com/s/dwnLnxn7jK_H_gL)
 
-- [Проект преподавателя]()
+- [Проект преподавателя](https://github.com/TheBandik/Horizon)
 
 ## Содержание курса
 
@@ -31,6 +31,14 @@
 - [Жизненный цикл разработки ПО (SDLC)](https://thebandik.onlyoffice.com/s/H4Nb4hP_D6NrHNS)
 
 #### 1.2. Анализ предметной области
+
+- [Лабораторная работа №1](labs/lab1/lab1.md)
+
+- [Пример выполнения](https://github.com/TheBandik/Horizon/blob/main/docs/domain-analysis.md)
+
+---
+
+- [Анализ предметной области на примере дипломных работ](https://thebandik.onlyoffice.com/s/RfF7XDytCk2DjYG)
 
 ### Блок 2. Определение требований
 
