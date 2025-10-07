@@ -44,6 +44,16 @@
 
 #### 2.1. Составление технического задания
 
+- [Лабораторная работа №2](labs/lab2/lab2.md)
+
+- [Пример выполнения (исходник)](https://thebandik.onlyoffice.com/s/4JZmhwPFQPC8CqG)
+
+---
+
+- [ГОСТы](https://thebandik.onlyoffice.com/s/rXF5nnnR6JNYmYJ)
+
+- [Примеры технических заданий](https://thebandik.onlyoffice.com/s/pxSZsPVrVQHqfBS)
+
 ### Блок 3. Проектирование
 
 #### 3.1. Выбор программных и инструментальных средств разработки и проектирования
