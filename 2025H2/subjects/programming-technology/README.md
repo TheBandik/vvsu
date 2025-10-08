@@ -32,6 +32,8 @@
 - [Лабораторная работа №1](labs/lab1/lab1.md)
 - [Пример выполнения](https://github.com/TheBandik/Horizon/blob/main/docs/domain-analysis.md)
 
+######
+
 - [Анализ предметной области на примере дипломных работ](https://thebandik.onlyoffice.com/s/RfF7XDytCk2DjYG)
 
 ### Блок 2. Определение требований
@@ -40,6 +42,8 @@
 
 - [Лабораторная работа №2](labs/lab2/lab2.md)
 - [Пример выполнения (исходник)](https://thebandik.onlyoffice.com/s/4JZmhwPFQPC8CqG)
+
+######
 
 - [ГОСТы](https://thebandik.onlyoffice.com/s/rXF5nnnR6JNYmYJ)
 - [Примеры технических заданий](https://thebandik.onlyoffice.com/s/pxSZsPVrVQHqfBS)
@@ -50,6 +54,8 @@
 
 - [Лабораторная работа №3](labs/lab3/lab3.md)
 - [Пример выполнения задания №2](https://github.com/TheBandik/Horizon/blob/main/docs/technology-stack.md)
+
+######
 
 - [Примеры сравнительного анализа (задание №1)](https://thebandik.onlyoffice.com/s/djY2FTwy2Xb-ZHR)
 
