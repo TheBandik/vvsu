@@ -15,11 +15,8 @@
 ### Дополнительные материалы
 
 - [Таблица успеваемости и посещаемости](https://thebandik.onlyoffice.com/s/Vc_Tr2Gvrr2ZLYw)
-
 - [Система оценки успеваемости студентов](https://github.com/TheBandik/vvsu/blob/0b7c93ccb5eb1221e8d3f9953cc967559c21336b/2025H2/ratingSystem.md)
-
 - [Примеры, документация](https://thebandik.onlyoffice.com/s/dwnLnxn7jK_H_gL)
-
 - [Проект преподавателя](https://github.com/TheBandik/Horizon)
 
 ## Содержание курса
@@ -33,10 +30,7 @@
 #### 1.2. Анализ предметной области
 
 - [Лабораторная работа №1](labs/lab1/lab1.md)
-
 - [Пример выполнения](https://github.com/TheBandik/Horizon/blob/main/docs/domain-analysis.md)
-
----
 
 - [Анализ предметной области на примере дипломных работ](https://thebandik.onlyoffice.com/s/RfF7XDytCk2DjYG)
 
@@ -45,13 +39,9 @@
 #### 2.1. Составление технического задания
 
 - [Лабораторная работа №2](labs/lab2/lab2.md)
-
 - [Пример выполнения (исходник)](https://thebandik.onlyoffice.com/s/4JZmhwPFQPC8CqG)
 
----
-
 - [ГОСТы](https://thebandik.onlyoffice.com/s/rXF5nnnR6JNYmYJ)
-
 - [Примеры технических заданий](https://thebandik.onlyoffice.com/s/pxSZsPVrVQHqfBS)
 
 ### Блок 3. Проектирование
@@ -60,8 +50,6 @@
 
 - [Лабораторная работа №3](labs/lab3/lab3.md)
 - [Пример выполнения задания №2](https://github.com/TheBandik/Horizon/blob/main/docs/technology-stack.md)
-
----
 
 - [Примеры сравнительного анализа (задание №1)](https://thebandik.onlyoffice.com/s/djY2FTwy2Xb-ZHR)
 
