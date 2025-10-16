@@ -61,6 +61,14 @@
 
 #### 3.2. Описание архитектуры проекта
 
+- [Лабораторная работа №4](labs/lab4/lab4.md)
+- [Пример выполнения (схема)](https://github.com/TheBandik/Horizon/blob/main/docs/arch.pdf)
+
+######
+
+- [Примеры схем архитектуры](https://thebandik.onlyoffice.com/s/8bfK4GJfWSLs3pr)
+- [Теория по архитектуре систем](lecs/arch.md)
+
 #### 3.3. Проектирование интерфейса
 
 ### Блок 4. Разработка
