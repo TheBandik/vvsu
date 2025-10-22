@@ -71,6 +71,21 @@
 
 #### 3.3. Проектирование интерфейса
 
+- [Лабораторная работа №5](labs/lab5/lab5.md)
+- [Пример выполнения]()
+
+######
+
+- [Пример варфрейма](https://www.figma.com/design/V8Nv3bo74f4N1fXa8lAhVD/Foodapp-Wireframes--Community-?node-id=0-1&p=f&t=4y9a4xBnGvcTGyqj-0)
+- [Пример мокапа](https://www.figma.com/design/5pK1lzvzCt0Zd1UP7rz2Rn/Mock-up-Bengkel-Akiong--Community-?node-id=0-1&p=f&t=RE93SnRiG0Ql7Dti-0)
+- [Пример прототипа](https://www.figma.com/design/yDLWC26vexQzQG4dOUiTBI/Fitness-Application-Design---Prototypes--Community-?node-id=0-1&p=f&t=enTA2quLF7R0puJZ-0)
+
+######
+
+- [UX/UI (статья)](https://habr.com/ru/articles/924114/)
+- [7 основных принципов UI дизайна (статья)](https://www.figma.com/resource-library/ui-design-principles/)
+- [Инструмент для подбора цветов](https://colorscheme.ru)
+
 ### Блок 4. Разработка
 
 #### 4.1. Разработка минимально жизнеспособного продукта (MVP)
