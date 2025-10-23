@@ -72,7 +72,7 @@
 #### 3.3. Проектирование интерфейса
 
 - [Лабораторная работа №5](labs/lab5/lab5.md)
-- [Пример выполнения]()
+- [Пример выполнения](https://www.figma.com/design/hHZeruJYW8qvs3y6ANp3F1/Untitled?node-id=0-1&p=f&t=JiBPAE0LhlFZvuuu-0)
 
 ######
 
