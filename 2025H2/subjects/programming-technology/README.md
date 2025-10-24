@@ -41,7 +41,7 @@
 #### 2.1. Составление технического задания
 
 - [Лабораторная работа №2](labs/lab2/lab2.md)
-- [Пример выполнения (исходник)](https://thebandik.onlyoffice.com/s/4JZmhwPFQPC8CqG)
+- [Пример выполнения](https://github.com/TheBandik/Horizon/blob/main/docs/tor.pdf)
 
 ######
 
