@@ -43,8 +43,13 @@
 ### Git
 
 #### [Теория](labs/lab6/t.md)
+
 #### [Лабораторная работа №6](labs/lab6/lab6.md)
 
 ### Проекты
+
+#### [СТО. Требования к оформлению письменных работ](https://izdo.vvsu.ru/files-signed/9843E3CA-9D2B-4F63-B5BA-322166D95906.pdf)
+
+#### [Пример оформления по СТО](extra/report.pdf)
 
 #### [Проект №1: Создание текстовой RPG-игры](projects/project1/project1.md)
