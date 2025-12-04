@@ -104,6 +104,15 @@
 
 #### 5.2. Тестовая документация
 
+- [Лабораторная работа №7](labs/lab7/lab7.md)
+- [Пример выполнения (чек-листы)](https://github.com/TheBandik/Horizon/blob/main/docs/test/check-list.md)
+- [Пример выполнения (тест-кейсы)](https://github.com/TheBandik/Horizon/blob/main/docs/test/test-cases.md)
+
+######
+
+- [Тестовая документация](https://thebandik.onlyoffice.com/s/5CLzxwpyz4VXXmw)
+- [Правила написания тест-кейсов](https://thebandik.onlyoffice.com/s/3CxGdRzHrcZFGhD)
+
 #### 5.3. Юнит-тестирование, интеграционное тестирование
 
 #### 5.4. Тестовые данные, генераторы
@@ -113,4 +122,3 @@
 #### 6.1. Пользовательская документация
 
 #### 6.2. Способы и методы развертывания
-
