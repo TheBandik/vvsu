@@ -53,3 +53,5 @@
 #### [Пример оформления по СТО](extra/report.pdf)
 
 #### [Проект №1: Создание текстовой RPG-игры](projects/project1/project1.md)
+
+#### [Проект №2: Трекер доходов и расходов](projects/project2/project2.md)
