@@ -125,8 +125,16 @@
 
 - [Лабораторная работа №9](labs/lab9/lab9.md)
 
-### Блок 6. Развертывание
+### Блок 6. Документация
 
 #### 6.1. Пользовательская документация
 
-#### 6.2. Способы и методы развертывания
+- [Лабораторная работа №10](labs/lab10/lab10.md)
+- [Пример выполнения](https://thebandik.onlyoffice.com/s/YTqCxfHb9Vm-x57)
+
+######
+
+- [Пример пользовательской документации](https://thebandik.onlyoffice.com/s/mdFtDq-Hyb99H_P)
+- [Пример технической документации](https://thebandik.onlyoffice.com/s/CrRch5m7Rnvchhv)
+- [Пример краткого руководства](https://thebandik.onlyoffice.com/s/84NbgbC86RqdhmH)
+- [Примеры Use Case (UML)](https://thebandik.onlyoffice.com/s/vDBdCcKwvRHR48y)
