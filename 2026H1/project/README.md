@@ -3,7 +3,7 @@
 ## Дополнительные материалы
 
 - [Успеваемость](https://thebandik.onlyoffice.com/s/p_9VnphVMYSHm8W)
-- [Варианты предметных областей](labs/vars.md)
+- [Варианты предметных областей](labs/vars.pdf)
 
 ######
 
