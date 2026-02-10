@@ -2,12 +2,16 @@
 
 ## Дополнительные материалы
 
-[Успеваемость](https://thebandik.onlyoffice.com/s/p_9VnphVMYSHm8W)
+- [Успеваемость](https://thebandik.onlyoffice.com/s/p_9VnphVMYSHm8W)
+- [Варианты предметных областей](labs/vars.md)
 
-[Варианты предметных областей](labs/vars.md)
+######
 
-## Практики
+- [Жизненный цикл разработки ПО (SDLC)](https://thebandik.onlyoffice.com/s/H4Nb4hP_D6NrHNS)
 
-[Лабораторная работа №1](labs/lab1.md)
+## Содержание курса
 
-[Пример выполнения](add/lab1_ex.md)
+### Анализ предметной области
+
+- [Лабораторная работа №1](labs/lab1.md)
+- [Пример выполнения](add/lab1_ex.md)
