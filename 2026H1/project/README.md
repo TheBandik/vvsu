@@ -25,6 +25,8 @@
 #### Тема 3. Бизнес-процессы предметной области (AS-IS)
 
 - [Лабораторная работа №3](labs/lab3.md)
+- [Примеры BPMN](https://thebandik.onlyoffice.com/s/5XHvBV6RM-XJ4W3)
+- [Все элементы BPMN с описанием](https://stormbpmn.com/bpmn/elements)
 
 #### Тема 4. Модель TO-BE и цели автоматизации
 
