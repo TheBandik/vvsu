@@ -655,10 +655,16 @@ dd if=/dev/zero of=test2.img bs=4096 count=128
 * имеет собственную файловую систему
 * может быть смонтирован независимо
 
-Пример (Linux):
+Linux:
 
 ```bash id="h2k9qp"
 lsblk
+```
+
+macOS:
+
+```bash
+diskutil list
 ```
 
 Типичный вывод:
@@ -694,8 +700,16 @@ sda
 
 #### Просмотр разделов
 
-```bash id="9k3lpd"
-lsblk -f
+Linux:
+
+```bash id="h2k9qp"
+lsblk
+```
+
+macOS:
+
+```bash
+diskutil list
 ```
 
 Анализ:
@@ -708,8 +722,16 @@ lsblk -f
 
 #### Подробная информация о разделах
 
+Linux:
+
 ```bash id="7p4xzn"
 fdisk -l
+```
+
+macOS:
+
+```bash
+diskutil list
 ```
 
 Анализ:
@@ -854,8 +876,17 @@ GPT является современным стандартом, пришедш
 
 #### Определение типа таблицы разделов
 
+Linux:
+
 ```bash id="n4kz8x"
 lsblk -o name,pttype
+```
+
+macOS:
+
+```bash
+diskutil list
+diskutil info /dev/disk0
 ```
 
 Анализ:
@@ -867,8 +898,16 @@ lsblk -o name,pttype
 
 #### Подробная информация о GPT
 
+Linux:
+
 ```bash id="x7q2lm"
 sudo parted -l
+```
+
+macOS:
+
+```bash
+gpt -r show /dev/disk0
 ```
 
 Анализ:
@@ -881,8 +920,16 @@ sudo parted -l
 
 #### Просмотр первого сектора (MBR)
 
+Linux:
+
 ```bash id="b3m8pd"
 sudo dd if=/dev/sda bs=512 count=1 | hexdump -C
+```
+
+macOS:
+
+```bash
+sudo dd if=/dev/disk0 bs=512 count=1 | hexdump -C
 ```
 
 ---
@@ -960,8 +1007,16 @@ sudo dd if=/dev/sda bs=512 count=1 | hexdump -C
 
 #### Просмотр логических томов
 
+Linux:
+
 ```bash id="q3x7vk"
 lsblk
+```
+
+macOS:
+
+```bash
+diskutil list
 ```
 
 Анализ:
@@ -1112,8 +1167,16 @@ dmesg | grep -i disk
 
 #### Отслеживание подключения USB
 
-```bash id="w3x7bt"
+Linux:
+
+```bash id="q3x7vk"
 lsblk
+```
+
+macOS:
+
+```bash
+diskutil list
 ```
 
 Далее:
@@ -1248,8 +1311,16 @@ df -h
 
 #### Связь устройства и каталога
 
-```bash id="k2p9xt"
-lsblk -f
+Linux:
+
+```bash id="q3x7vk"
+lsblk
+```
+
+macOS:
+
+```bash
+diskutil list
 ```
 
 Анализ:
